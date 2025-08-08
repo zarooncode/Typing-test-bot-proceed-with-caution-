@@ -1,8 +1,8 @@
 # Typing-test-bot-proceed-with-caution-
 This is a typing test auto bot typer that will type the test for you!
-Coordinates may vary so follow prperly!
+Coordinates may vary so follow code properly!
 Inspiration from The Coding Sloth
-
+Use at your own risk, may get banned from certain websites for using this bot to type for you!
 
 CODE:
 ```python
